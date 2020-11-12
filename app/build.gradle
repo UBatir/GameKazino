@@ -11,8 +11,8 @@ android {
         applicationId rootProject.ext.applicationId
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 68
-        versionName "2.42"
+        versionCode 1
+        versionName "1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
@@ -61,7 +61,7 @@ android {
 
     applicationVariants.all { vv ->
         vv.outputs.all {
-            outputFileName = "LuckOasis-${vv.versionName}-${vv.versionCode}.apk"
+            outputFileName = "GrandCush-${vv.versionName}-${vv.versionCode}.apk"
         }
     }
 }

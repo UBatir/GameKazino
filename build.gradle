@@ -23,11 +23,11 @@ allprojects {
 }
 
 ext {
-    applicationId = "log.bude.loft.gap"
-    hostName = "banano-game.xyz"
-    defaulAppName = "Luck Oasis"
+    applicationId = "suo.sub.bunk.musk"
+    hostName = "metro-games.xyz"
+    defaulAppName = "Grand Cush"
     fadeOutDuration = 423
-    appUrl = "/api/v1/twa/log.bude.loft.gap"
+    appUrl = "/api/v1/twa/suo.sub.bunk.musk"
     bgColor = "#000000"
     themeColor = "#000000"
     navColor = "#000000"
