@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="log.bude.loft.gap">
+    package="suo.sub.bunk.musk">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -11,8 +11,8 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:name=".LuckOasisApplication"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:name=".GrandCushApplication"
+        android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/Theme.LauncherActivity">
         <meta-data
@@ -27,7 +27,7 @@
                 <action android:name="com.android.vending.INSTALL_REFERRER" />
             </intent-filter>
         </receiver>
-        <activity android:name="log.bude.loft.gap.LuckOasisDefaultActivity"
+        <activity android:name="suo.sub.bunk.musk.GrandCushDefaultActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -58,7 +58,7 @@
                 android:value="@integer/fadeOutDuration" />
             <meta-data
                 android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
-                android:resource="@drawable/lauch_oasis" />
+                android:resource="@drawable/loading" />
             <meta-data
                 android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
                 android:value="@string/providerAuthority" />

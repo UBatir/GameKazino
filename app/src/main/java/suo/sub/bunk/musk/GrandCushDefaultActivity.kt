@@ -1,11 +1,12 @@
-package log.bude.loft.gap
+package suo.sub.bunk.musk
 
 import android.net.Uri
 import android.provider.Settings
 import android.provider.Settings.Secure.ANDROID_ID
 import com.google.androidbrowserhelper.trusted.LauncherActivity
+import suo.sub.bunk.musk.getLCcountry
 
-class LuckOasisDefaultActivity: LauncherActivity() {
+class GrandCushDefaultActivity: LauncherActivity() {
 
     override fun getLaunchingUrl(): Uri? {
         val oaiUri = super.getLaunchingUrl()

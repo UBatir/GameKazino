@@ -1,4 +1,4 @@
-package log.bude.loft.gap;
+package suo.sub.bunk.musk;
 
 import android.app.Application;
 import android.util.Log;
@@ -8,9 +8,9 @@ import com.appsflyer.AppsFlyerLib;
 
 import java.util.Map;
 
-public class LuckOasisApplication extends Application {
+public class GrandCushApplication extends Application {
 
-    private String DEFAUL_FLYER_KEY = "vies8j5KuKDdG2JN4vb59Q";
+    private String DEFAUL_FLYER_KEY = "";
 
     @Override
     public void onCreate() {

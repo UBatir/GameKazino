@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LuckOasis.iml" filepath="$PROJECT_DIR$/.idea/modules/LuckOasis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LuckOasis.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LuckOasis.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GrandCush.iml" filepath="$PROJECT_DIR$/.idea/modules/GrandCush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GrandCush.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GrandCush.app.iml" />
     </modules>
   </component>
 </project>
