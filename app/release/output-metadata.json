@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "log.bude.loft.gap",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 68,
+      "versionName": "2.42",
+      "enabled": true,
+      "outputFile": "LuckOasis-2.42-68.apk"
+    }
+  ]
+}
