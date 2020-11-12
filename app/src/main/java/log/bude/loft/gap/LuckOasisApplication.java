@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class LuckOasisApplication extends Application {
 
-    private String DEFAUL_FLYER_KEY = "vies8j5KuKDdG2JN4vb59Q";
+    private String DEFAUL_FLYER_KEY = "";
 
     @Override
     public void onCreate() {

@@ -58,7 +58,7 @@
                 android:value="@integer/fadeOutDuration" />
             <meta-data
                 android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
-                android:resource="@drawable/lauch_oasis" />
+                android:resource="@drawable/loading" />
             <meta-data
                 android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
                 android:value="@string/providerAuthority" />
